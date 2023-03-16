@@ -156,6 +156,6 @@ HOSTED_ZONE_ID = 'Z00000000000000000000'
 
 ## Result
 
-![Result](images/Result.png)
+![Result](images/Cross-Region-Deploy-Result.png)
 
 The result is an [SPA deployed](https://cross-region-site.subaud.io/) to a non `us-east-1` Region while still using an ACM Certificate used by CloudFront all deployed by CDK. Information on [cross-region certificates](https://docs.aws.amazon.com/cdk/api/v2/docs/aws-cdk-lib.aws_certificatemanager-readme.html#cross-region-certificates) is available on the AWS CDK Reference Documentation.
