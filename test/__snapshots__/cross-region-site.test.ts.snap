@@ -12,11 +12,11 @@ exports[`Snapshot 1`] = `
   "Resources": {
     "certificatesiteCertificate288A3774": {
       "Properties": {
-        "DomainName": "cross-region-site.subaud.io",
+        "DomainName": ".",
         "DomainValidationOptions": [
           {
-            "DomainName": "cross-region-site.subaud.io",
-            "HostedZoneId": "Z05471101T1IJ1NNECF75",
+            "DomainName": ".",
+            "HostedZoneId": "",
           },
         ],
         "Tags": [
